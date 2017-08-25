@@ -1,2 +1,2 @@
 # merhaba-dunya
-Merhaba Dunya projesinin aciklamasini yazin.
+Merhaba Dunya projesinin aciklamasini icerir bu dosya.
